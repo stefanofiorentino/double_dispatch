@@ -1,0 +1,9 @@
+#ifndef DOUBLE_DISPATCH_ODR_H
+#define DOUBLE_DISPATCH_ODR_H
+#include "include/Animal.h"
+#include "include/AnimalVisitor.h"
+#include "include/Filters.h"
+#include "include/ReactionVisitor.h"
+#include "include/VisitableAnimal.h"
+#include "include/Person.h"
+#endif //DOUBLE_DISPATCH_ODR_H
